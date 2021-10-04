@@ -1,6 +1,6 @@
 {
   "name": "brople-connector",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Connector package for react-storefront and a PostgreSQL database",
   "main": "src/index.js",
   "scripts": {
